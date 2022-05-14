@@ -1,0 +1,205 @@
+{
+  "Products": [
+    {
+      "name": "Chicken Eggs (Layer)",
+      "regular_price": "125",
+      "sale_price": "115",
+      "decs": "Eggs are an all-natural source of high-quality protein and a number of other nutrients, all for 70 calories an egg. 100% fresh and healthy.",
+      "slug": "chicken-eggs-(layer)",
+      "rating": "3",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "https://chaldn.com/_mpimage/chicken-eggs-layer-12-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79219&q=low&v=1&m=400&webp=1",
+      "id": 1
+    },
+    {
+      "name": "Mango GobindoBhog",
+      "regular_price": "550",
+      "sale_price": "359",
+      "decs": "Chaldal.com is an online shop available in Dhaka, Chattogram, Jashore, Khulna, Sylhet, Gazipur, Rajshahi, Mymensingh, Narayanganj and Narayanganj. We believe time is valuable to our fellow residents, and that they should not have to waste hours in traffic, brave bad weather and wait in line just to buy basic necessities like eggs! This is why Chaldal delivers everything you need right at your door-step and at no additional cost.",
+      "slug": "mango-gobindobhog",
+      "rating": "4",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "https://chaldn.com/_mpimage/mango-gobindobhog-net-weight-50-gm-3-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78380&q=best&v=1&m=400&webp=1",
+      "id": 2
+    },
+    {
+      "name": "Amul Kool Kesar Pet Bottle",
+      "regular_price": "99",
+      "sale_price": "80",
+      "decs": "Amul Kool Kesar is refreshing milk with taste of saffron (Kesar). It is an easy to use delicious drink that refreshes you immediately with goodness of milk. Tastes best when enjoyed chilled.\n\n",
+      "slug": "amul-kool-kesar-pet-bottle",
+      "rating": "5",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "https://chaldn.com/_mpimage/amul-kool-kesar-pet-bottle-180-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69575&q=low&v=1&m=400&webp=1",
+      "id": 3
+    },
+    {
+      "name": "Sofeda (Sapodilla)",
+      "regular_price": "179",
+      "sale_price": "110",
+      "decs": "hat they should not have to waste hours in traffic, brave bad weather and wait in line just to buy basic necessities like eggs! This is why Chaldal delivers everything you need right at your door-step and at no additional cost.",
+      "slug": "sofeda-(sapodilla)",
+      "rating": "5",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "https://chaldn.com/_mpimage/sofeda-sapodilla-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18391&q=low&v=1&m=400&webp=1",
+      "id": 4
+    },
+    {
+      "name": "Broiler Chicken Skin",
+      "regular_price": "299",
+      "sale_price": "290",
+      "decs": "n traffic, brave bad weather and wait in line just to buy basic necessities like eggs! This is why Chaldal delivers everything you need right at your door-step and at no additional cost.",
+      "slug": "broiler-chicken-skin",
+      "rating": "4",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "https://chaldn.com/_mpimage/broiler-chicken-skin-off-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74661&q=low&v=1&m=400&webp=1",
+      "id": 5
+    },
+    {
+      "name": "Bengal Meat Beef Bone In ± 50 gm",
+      "regular_price": "780",
+      "sale_price": "700",
+      "decs": "sed in hamburgers. Processed beef products include corned beef, beef jerky, and sausages. Fresh lean beef is rich in various vitamins and minerals, especially iron and zinc, and is therefore recommended as part of a healthy diet.",
+      "slug": "bengal-meat-beef-bone-in-±-50-gm",
+      "rating": "5",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "https://chaldn.com/_mpimage/bengal-meat-beef-bone-in-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77384&q=low&v=1&m=400&webp=1",
+      "id": 6
+    },
+    {
+      "name": "Beef Brain (Mogoz)",
+      "regular_price": "349",
+      "sale_price": "330",
+      "decs": "mensingh, Narayanganj and Narayanganj. We believe time is valuable to our fellow residents, and that they should not have to waste hours in traffic, brave bad weather and wait in line just to buy basic necessities like eggs! This is why Chaldal delivers everything you need right at your door-step and at no additional co",
+      "slug": "beef-brain-(mogoz)",
+      "rating": "4",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "https://chaldn.com/_mpimage/beef-brain-mogoz-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D95196&q=best&v=1&m=400&webp=1",
+      "id": 7
+    },
+    {
+      "name": "Agro Acres Khejurer Gur Patali",
+      "regular_price": "199",
+      "sale_price": "190",
+      "decs": "er digestion and also boost energy levels. It is a good source of calcium and helps in strengthening bones. Dietary fiber helps to treat digestive disorders such as constipation, indigestion, and improper bowel movements.",
+      "slug": "agro-acres-khejurer-gur-patali",
+      "rating": "4",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "er digestion and also boost energy levels. It is a good source of calcium and helps in strengthening bones. Dietary fiber helps to treat digestive disorders such as constipation, indigestion, and improper bowel movements.",
+      "id": 8
+    },
+    {
+      "name": "Saad Cocoa Powder",
+      "regular_price": "150",
+      "sale_price": "140",
+      "decs": "is an online shop available in Dhaka, Chattogram, Jashore, Khulna, Sylhet, Gazipur, Rajshahi, Mymensingh, Narayanganj and Narayanganj. We believe time is valuable to our fellow residents, and that they should not have to waste hours in traffic, brave bad weather and wait in line just to buy basic necessities like eggs! This is why Chaldal delivers everything you need right at your door-step and at no additional cost.\nCustomer Service",
+      "slug": "saad-cocoa-powder",
+      "rating": "4",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "https://chaldn.com/_mpimage/saad-cocoa-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D74746&q=low&v=1&m=400&webp=1",
+      "id": 9
+    },
+    {
+      "name": "NeoCare Baby ",
+      "regular_price": "220",
+      "sale_price": "209",
+      "decs": "Origin: Bangladesh\n\nPH balanced, microbiologically tested baby wipes. Free from paraben, silicone and alcohol.\n\ningredients: Pure water, propylene glycol, benzalconium chloride, iodopropynyl butylcarbomarate, fragrance.\n\nQuantity: 120 Pcs",
+      "slug": "neocare-baby-",
+      "rating": "4",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "https://chaldn.com/_mpimage/neocare-baby-wipes-120-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67437&q=low&v=1&m=400&webp=1",
+      "id": 10
+    },
+    {
+      "name": "Nannys Baby Diaper Belt 1 New Born 2-5 kg",
+      "regular_price": "1200",
+      "sale_price": "899",
+      "decs": "Origin: Cyprus\n\nBrand: Nanny's\n\nSize: 1 Newborn\n\nAllowable weight of baby:2-5 kg\n\nQuantity:44 Pcs\n\nSuper absorbent\n\nElasstic tapes. Belt system.",
+      "slug": "nannys-baby-diaper-belt-1-new-born-2-5-kg",
+      "rating": "4",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "https://chaldn.com/_mpimage/nannys-baby-diaper-belt-1-new-born-2-5-kg-44-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68045&q=low&v=1&m=400&webp=1",
+      "id": 11
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name": "Popular",
+      "slug": "popular"
+    },
+    {
+      "id": 2,
+      "name": "Food",
+      "slug": "food"
+    },
+    {
+      "id": 3,
+      "name": "Baby Care",
+      "slug": "baby-care"
+    },
+    {
+      "id": 4,
+      "name": "Fashion",
+      "slug": "fashion"
+    }
+  ],
+  "Tags": [
+    {
+      "id": 1,
+      "name": "Fruits & Vegetable",
+      "slug": "fruits-&-vegetable"
+    },
+    {
+      "id": 2,
+      "name": "MEat & Fish",
+      "slug": "meat-&-fish"
+    },
+    {
+      "id": 3,
+      "name": "Cooking",
+      "slug": "cooking"
+    },
+    {
+      "id": 4,
+      "name": "Bacing",
+      "slug": "bacing"
+    },
+    {
+      "id": 5,
+      "name": "Newborn Essentials",
+      "slug": "newborn-essentials"
+    },
+    {
+      "id": 6,
+      "name": "Diapers & Wipes",
+      "slug": "diapers-&-wipes"
+    },
+    {
+      "id": 7,
+      "name": "Fooding",
+      "slug": "fooding"
+    },
+    {
+      "id": 8,
+      "name": "Bath & Skincare",
+      "slug": "bath-&-skincare"
+    },
+    {
+      "id": 9,
+      "name": "Baby Oral Care",
+      "slug": "baby-oral-care"
+    }
+  ]
+}
